@@ -1,18 +1,8 @@
 {
   "name": "NodeChatSystem",
   "version": "0.0.1",
-  "description": "Realtime chat system for facemilan.com",
-  "main": "app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "node",
-    "chat",
-    "system"
-  ],
-  "author": "Nikolay Anastasov",
-  "license": "MIT",
+  "description": "myProject",
+  "author": "bijay Kanshi",
   "dependencies": {
     "body-parser": "~1.13.3",
     "ejs": "^1.0.0",
