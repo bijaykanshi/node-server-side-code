@@ -1,0 +1,19 @@
+1 . what will happen when user doesn't allow to locate location?
+
+2. obtaining key from google for geoLocation?
+
+3. textbox in chatbox
+
+4. scrolling in chatbox.
+
+5. scrolling in chatsidebar
+
+6. logout btn not working properly
+
+7. popup msg when clicking on show detail btn.
+
+8. socket io automatically disconnect.
+
+9. implementation of offline msg.
+
+10. issue related with more message.
